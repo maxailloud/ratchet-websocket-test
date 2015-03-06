@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Gameserver\\": "src/Gameserver/"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "0.3.*",
+        "malenki/ansi": "~1.2"
+    }
+}
